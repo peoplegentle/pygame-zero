@@ -15,25 +15,25 @@ Press enter to play again.<br />
 <br />
 
 ## Pictures
-<img width="30%" src="https://github.com/user-attachments/assets/1fdca00f-bc10-43b5-83cf-867f0ac8c024">
+<img width="30%" src="https://github.com/user-attachments/assets/1fdca00f-bc10-43b5-83cf-867f0ac8c024"><br />
 Picture of running game
 <br />
 <br />
 <br />
 
-<img width="30%" src="https://github.com/user-attachments/assets/6775e27c-15c5-4fdf-901c-1d6d6a438d9c">
+<img width="30%" src="https://github.com/user-attachments/assets/6775e27c-15c5-4fdf-901c-1d6d6a438d9c"><br />
 Picutre of Fail(missed)
 <br />
 <br />
 <br />
 
-<img width="30%" src="https://github.com/user-attachments/assets/e25cd50b-740e-43f0-9c11-daf2fad149b8">
+<img width="30%" src="https://github.com/user-attachments/assets/e25cd50b-740e-43f0-9c11-daf2fad149b8"><br />
 Picutre of Fail(time out)
 <br />
 <br />
 <br />
 
-<img width="30%" src="https://github.com/user-attachments/assets/3801ddf9-49c8-4f48-b9eb-fa1ff86409b7">
+<img width="30%" src="https://github.com/user-attachments/assets/3801ddf9-49c8-4f48-b9eb-fa1ff86409b7"><br />
 Picutre of Clear(end)
 <br />
 <br />
