@@ -1,5 +1,10 @@
 <br />
 
+- [Game description](#game-description)
+    - [Pictures](#pictures)
+    - [Windwos exe file](#windows-exe-file)
+- [Author](#author)
+
 # Game description
 The game is called "Apple Game." In this game, you need to click on the apples. There are three possible endings:<br />
 - If you click on the background, a message says "You missed."<br />
@@ -35,10 +40,10 @@ Picutre of Clear(end)
 <br />
 
 ## Windows exe file
-<a href="https://drive.google.com/file/d/1wE-Jp_5uP-5h7MMs573eIJ1SXTARZlGz/view?usp=sharing" target="_">Download exe file</a>
+<a href="https://drive.google.com/file/d/1wE-Jp_5uP-5h7MMs573eIJ1SXTARZlGz/view?usp=sharing" target="_blank">Download exe file</a>
 <br />
 <br />
 <br />
 
 # Author
-<a href="https://github.com/peoplegentle" target="_">peoplegentle</a>
+<a href="https://github.com/peoplegentle" target="_blank">peoplegentle</a>
